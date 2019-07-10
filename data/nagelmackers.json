@@ -27,10 +27,10 @@
     }
   ],
   "sandbox": {
-    "status": "unavailable",
-    "sourceUrl": null
+    "status": "available",
+    "sourceUrl": "https://openbankingdevportal.nagelmackers.be/content/09-use-our-sandbox-dataset"
   },
-  "developerPortalUrl": null,
+  "developerPortalUrl": "https://www.nagelmackers.be/nl/psd2/xs2a",
   "apiProducts": [
     {
       "label": "Account Information Service",
